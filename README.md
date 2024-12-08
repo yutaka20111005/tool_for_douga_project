@@ -8,7 +8,7 @@ several python program for douga project
   　
 ２．csv2jsonClass.py  
 　　クラスを作成し、CSVファイルをJSONファイルへ変換  
-  　機能は、１と同じです。  
+  　　機能は、１と同じです。  
 
 
 ３．json2csv.py  
@@ -16,7 +16,7 @@ several python program for douga project
 
 ４．json2csvClass.py  
 　　クラスを作成し、JSONファイルをCSVファイルへ変換  
-  　機能は、３と同じです。  
+  　　機能は、３と同じです。  
 
 ５．mp4tojpeg.py  
 　　MP4　動画を JPEGファイルへ切り出し
