@@ -5,7 +5,7 @@ several python program for douga project
 
 １．csv2json.py  
 　　CSVファイルをJSONファイルへ変換  
-  　
+  
 ２．csv2jsonClass.py  
 　　クラスを作成し、CSVファイルをJSONファイルへ変換  
   　　機能は、１と同じです。  
