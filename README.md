@@ -25,7 +25,15 @@ several python program for douga project
 　　mp4動画とmp4動画の間に、別の動画を差し込んで、全体を１つの動画ファイルとして書き出し。  
 　　補足：動画のサイズ（縦横）を同じにしたファイル同士で、実行して下さい。
 
-７．5と6のclass化
+７．6のclass化・・・実行内容は同じです。
+　insert_mp4.py  
+　insert_mp4_between_Amp4_and_Bmp4new.py  
+  実行方法
+  python insert_mp4.py
+
+　ファイル名：soccer3192198-uhd_3840_2160_25fps.mp4　と　ファイル名：soccer3192198-uhd_3840_2160_25fps.mp4の間に  
+ 　ファイル名：　5124383_People_Person_3840x2160.mp4　の動画を挿入してつなげ、最終的に1ファイル：output_video.mp4　を出力します。
+
 
 ８．その他
 
