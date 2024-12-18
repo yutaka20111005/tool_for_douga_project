@@ -33,8 +33,8 @@ several python program for douga project
   python insert_mp4.py
 
 　ファイル名：soccer3192198-uhd_3840_2160_25fps.mp4　と　ファイル名：soccer3192198-uhd_3840_2160_25fps.mp4の間に  
- 　ファイル名：　5124383_People_Person_3840x2160.mp4　の動画を挿入してつなげ、最終的に1ファイル：output_video.mp4　を出力します。
-
+ 　ファイル名：　5124383_People_Person_3840x2160.mp4　の動画を挿入してつなげ、  
+　 最終的に1ファイル：output_video.mp4　を出力します。  
 
 ８．その他
 
