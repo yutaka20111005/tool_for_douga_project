@@ -28,7 +28,7 @@ several python program for douga project
 ７．6のclass化・・・実行内容は同じです。
 　insert_mp4.py  
 　insert_mp4_between_Amp4_and_Bmp4new.py  
-  実行方法
+　実行方法
   python insert_mp4.py
 
 　ファイル名：soccer3192198-uhd_3840_2160_25fps.mp4　と　ファイル名：soccer3192198-uhd_3840_2160_25fps.mp4の間に  
