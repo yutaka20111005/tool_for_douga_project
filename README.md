@@ -29,4 +29,8 @@ several python program for douga project
 
 ８．その他
 
+8-1. 動画ファイルを入手したい時
+
+8-2. AWS LambdaへのDeploy
+
 
