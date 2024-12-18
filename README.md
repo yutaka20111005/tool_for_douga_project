@@ -21,8 +21,9 @@ several python program for douga project
 ５．mp4tojpeg.py  
 　　MP4　動画を JPEGファイルへ切り出し
 
-６．mp4動画とmp4動画の間に、別の動画を差し込んで、全体を１つの動画ファイルとして書き出し。  
-　　作成できたので、確認中
+６．insert_Xmp4_between_Amp4_and_Bmp4.py  
+　　mp4動画とmp4動画の間に、別の動画を差し込んで、全体を１つの動画ファイルとして書き出し。  
+    補足：動画のサイズ（縦横）を同じにしたファイル同士で、実行して下さい。
 
 ７．5と6のclass化
 
